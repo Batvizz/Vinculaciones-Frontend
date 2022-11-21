@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vinculaciones-Frontend%20/static/css/main.20ab695b.css",
+    "main.js": "/Vinculaciones-Frontend%20/static/js/main.200c7445.js",
+    "static/js/496.7bb6aafb.chunk.js": "/Vinculaciones-Frontend%20/static/js/496.7bb6aafb.chunk.js",
+    "index.html": "/Vinculaciones-Frontend%20/index.html",
+    "main.20ab695b.css.map": "/Vinculaciones-Frontend%20/static/css/main.20ab695b.css.map",
+    "main.200c7445.js.map": "/Vinculaciones-Frontend%20/static/js/main.200c7445.js.map",
+    "496.7bb6aafb.chunk.js.map": "/Vinculaciones-Frontend%20/static/js/496.7bb6aafb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20ab695b.css",
+    "static/js/main.200c7445.js"
+  ]
+}
