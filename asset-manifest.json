@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vinculaciones-Frontend%20/static/css/main.20ab695b.css",
-    "main.js": "/Vinculaciones-Frontend%20/static/js/main.200c7445.js",
-    "static/js/496.7bb6aafb.chunk.js": "/Vinculaciones-Frontend%20/static/js/496.7bb6aafb.chunk.js",
-    "index.html": "/Vinculaciones-Frontend%20/index.html",
-    "main.20ab695b.css.map": "/Vinculaciones-Frontend%20/static/css/main.20ab695b.css.map",
-    "main.200c7445.js.map": "/Vinculaciones-Frontend%20/static/js/main.200c7445.js.map",
-    "496.7bb6aafb.chunk.js.map": "/Vinculaciones-Frontend%20/static/js/496.7bb6aafb.chunk.js.map"
+    "main.css": "/Vinculaciones-Frontend/frontend/vinculaciones-app/static/css/main.20ab695b.css",
+    "main.js": "/Vinculaciones-Frontend/frontend/vinculaciones-app/static/js/main.d708731f.js",
+    "static/js/496.7bb6aafb.chunk.js": "/Vinculaciones-Frontend/frontend/vinculaciones-app/static/js/496.7bb6aafb.chunk.js",
+    "index.html": "/Vinculaciones-Frontend/frontend/vinculaciones-app/index.html",
+    "main.20ab695b.css.map": "/Vinculaciones-Frontend/frontend/vinculaciones-app/static/css/main.20ab695b.css.map",
+    "main.d708731f.js.map": "/Vinculaciones-Frontend/frontend/vinculaciones-app/static/js/main.d708731f.js.map",
+    "496.7bb6aafb.chunk.js.map": "/Vinculaciones-Frontend/frontend/vinculaciones-app/static/js/496.7bb6aafb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20ab695b.css",
-    "static/js/main.200c7445.js"
+    "static/js/main.d708731f.js"
   ]
 }
